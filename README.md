@@ -17,4 +17,4 @@ To run it, do
 python run.py <dataset>
 ```
   
-where <dataset> is either: cora, citeseer, pubmed, wikipedia or cora-d (for directed cora).
+where dataset is either: cora, citeseer, pubmed, wikipedia or cora-d (for directed cora).
