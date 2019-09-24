@@ -1,5 +1,4 @@
-This repository contains the code for GDR, written by Robert Peach and Alexis Arnaudon, based on the code of Kipf et al. 2016. 
-
+This repository contains the code for Graph Diffusion Reclassification (GDR), written by Robert Peach and Alexis Arnaudon. 
 
 To install it, one needs
 
@@ -9,13 +8,13 @@ To install it, one needs
 - sklearn 
 
 To install it, simply run 
-
+```
 python setup.py install
+```
 
-To run it, 
-
+To run it, do
+```
 python run.py <dataset>
-
+```
+  
 where <dataset> is either: cora, citeseer, pubmed, wikipedia or cora-d (for directed cora).
-
-
