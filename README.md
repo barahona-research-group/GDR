@@ -22,12 +22,17 @@ Semi-supervised classification on graphs using explicit diffusion dynamics,Found
 The bibtex code:
 
 ```
-@article{peach2019semi,
+@article{peach2020semi,
   title={Semi-supervised classification on graphs using explicit diffusion dynamics},
   author={Peach, Robert L and Arnaudon, Alexis and Barahona, Mauricio},
-  journal={arXiv preprint arXiv:1909.11117},
-  year={2019}
+  journal={Foundations of Data Science},
+  volume={2},
+  number={1},
+  pages={19},
+  year={2020},
+  publisher={American Institute of Mathematical Sciences}
 }
+
 
 ```
 
